@@ -85,3 +85,10 @@ if (isAwesome){
   return true
 }
 ```
+
+* HTML:
+
+```html
+<p> Hello World! </p>
+<a href="#"> Click Me! </a>
+```
