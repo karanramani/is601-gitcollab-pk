@@ -69,3 +69,7 @@ Code Example:
 ````
     git status
 ````
+
+### Master Branch:
+
+* Master branch is like any other branch in the repository. Which is generally used to track the commits from the sub branches.
