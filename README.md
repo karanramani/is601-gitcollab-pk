@@ -11,3 +11,11 @@
 
 ![Git icon](images/github.png) ![Docker icon](images/docker.png)
 ___________________________________________________________________________________
+
+### Repository:
+
+* A place in git where essential resources can be stored which can be tracked with version controls as well as number of commits and updates made from users with allowed access.
+
+**Example**
+
+![Git Repo Example](images/Repo.png)
