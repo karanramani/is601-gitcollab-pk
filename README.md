@@ -60,3 +60,12 @@ Code Example:
 ````
 
 * Commit command then can be used to commit the changed files in queue to the remote repository.
+
+### Status: 
+
+* Git status command shows the working directory, locally highlighting the most recent updates done.
+
+Code Example:
+````
+    git status
+````
