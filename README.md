@@ -28,3 +28,12 @@ Code Example:
 ````
     git branch <new_branch_name>
 ````
+
+### Checkout:
+
+* Checkout command serves as a “Switch”, it is able to switch between different entities or branches. 
+
+Code Example:
+````
+    git checkout <branch_name>
+````
