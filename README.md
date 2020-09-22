@@ -73,3 +73,15 @@ Code Example:
 ### Master Branch:
 
 * Master branch is like any other branch in the repository. Which is generally used to track the commits from the sub branches.
+
+___________________________________________________________________________________
+
+### Other Code Snippet examples: 
+
+* JavaScript:
+
+```javascript
+if (isAwesome){
+  return true
+}
+```
