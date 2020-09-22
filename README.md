@@ -28,6 +28,7 @@ Code Example:
 ````
     git branch <new_branch_name>
 ````
+![Git branch image](images/git-branch.png)
 
 ### Checkout:
 
