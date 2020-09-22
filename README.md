@@ -37,3 +37,26 @@ Code Example:
 ````
     git checkout <branch_name>
 ````
+
+### Remote Add / Remove / Show:
+
+* Add command adds a local file for the repository at the working remote directory queue.
+
+Code Example:
+````
+    git add <name-of-the-file-edited>
+````
+* Remove command removes added file from the queue.
+
+Code Example:
+````
+    git remove <name-of-the-file-edited>
+````
+* Show command shows the queued items that are ready to be added to the branch.    	
+
+Code Example:
+````
+    git show <name-of-the-file-edited>
+````
+
+* Commit command then can be used to commit the changed files in queue to the remote repository.
