@@ -114,3 +114,9 @@ decapitalize('FooBar') # 'fooBar'
 ### Push:
 * Command used to add all committed files in the local repository to the remote repository in the remote repository all the changes will be visible to anyone with access to the remote repository.
 
+Code Example:
+
+````
+Git Push
+````
+
