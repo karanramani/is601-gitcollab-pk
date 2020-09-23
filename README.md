@@ -104,3 +104,6 @@ def decapitalize(str):
 decapitalize('FooBar') # 'fooBar'
 decapitalize('FooBar') # 'fooBar'
 ```
+### Commit:
+* Command used to add all files that are staged to the local repository.
+
