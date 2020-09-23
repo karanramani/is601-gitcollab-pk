@@ -128,3 +128,7 @@ Git Fetch
 ````
 
 ![Git Fetch 1](images/GitFetch1.PNG)
+
+### Merge:
+
+* Command used to get files from the local repository into working directory.
