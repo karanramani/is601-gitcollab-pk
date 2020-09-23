@@ -152,3 +152,8 @@ Git Pull
 **Example**
 
 ![Git Clone 1](images/GitClone1.PNG)
+
+### Fork:
+
+* Copying from one account to another.
+* Without having collaborators having added to one repository.
