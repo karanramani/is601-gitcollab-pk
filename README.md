@@ -148,3 +148,7 @@ Git Pull
 
 ### Clone:
 * Command used to create local copies of remote repositories from GITHUB.
+
+**Example**
+
+![Git Clone 1](images/GitClone1.PNG)
