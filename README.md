@@ -119,4 +119,6 @@ Code Example:
 ````
 Git Push
 ````
+### Fetch:
+* Command used to get files from the remote repository to the local repository but not in the working directory. 
 
