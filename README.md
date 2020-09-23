@@ -157,3 +157,7 @@ Git Pull
 
 * Copying from one account to another.
 * Without having collaborators having added to one repository.
+
+**Example**
+
+![Git Fork 1](images/GitFork1.PNG)  
