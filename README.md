@@ -122,3 +122,9 @@ Git Push
 ### Fetch:
 * Command used to get files from the remote repository to the local repository but not in the working directory. 
 
+Code Example:
+````
+Git Fetch 
+````
+
+![Git Fetch 1](images/GitFetch1.PNG)
