@@ -139,3 +139,9 @@ Git Fetch
 
 ### Pull:
 * Command used to get files from remote repository to working directory.
+
+Code Example:
+
+````
+Git Pull
+````
