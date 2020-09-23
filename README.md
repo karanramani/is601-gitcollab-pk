@@ -132,3 +132,7 @@ Git Fetch
 ### Merge:
 
 * Command used to get files from the local repository into working directory.
+
+**Example**
+
+![Git Merge 1](images/GitMerge1.PNG)
