@@ -145,3 +145,6 @@ Code Example:
 ````
 Git Pull
 ````
+
+### Clone:
+* Command used to create local copies of remote repositories from GITHUB.
