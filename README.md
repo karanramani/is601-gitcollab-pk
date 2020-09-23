@@ -136,3 +136,6 @@ Git Fetch
 **Example**
 
 ![Git Merge 1](images/GitMerge1.PNG)
+
+### Pull:
+* Command used to get files from remote repository to working directory.
